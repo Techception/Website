@@ -1,7 +1,7 @@
 # Website
-Git project to create my own website
+**Git project to create my own website**
 
-Purpose of this project: 
+**Purpose of this project: **
 Create a site to showcase my portfolio
 create a 3 tier application for knowledge gain 
 
@@ -25,6 +25,7 @@ Height > Width
 
 **Servers**
 1 - monolithic architecture
+
 
 **Database**
 SQL Express 2022
