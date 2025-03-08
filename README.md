@@ -1,7 +1,7 @@
 # Website
 **Git project to create my own website**
 
-**Purpose of this project: **
+**Purpose of this project:**
 Create a site to showcase my portfolio
 create a 3 tier application for knowledge gain 
 
