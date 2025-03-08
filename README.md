@@ -7,7 +7,7 @@ create a 3 tier application for knowledge gain
 
 There will be links to: 
 - my CV
-- my git hub
+- my github
 - other projects i create (not ready yet) 
 
 
