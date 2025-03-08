@@ -5,6 +5,12 @@
 Create a site to showcase my portfolio
 create a 3 tier application for knowledge gain 
 
+There will be links to: 
+- my CV
+- my git hub
+- other projects i create (not ready yet) 
+
+
 The website will be functional on microsoft edge with intention to become a available on mobile phone. 
 
 Requirements: 
@@ -12,7 +18,13 @@ Requirements:
 Height > Width 
 
 **columns**
-1
+3 
+left and right columns will be the websites boarders
+middle column will be the main column for content 
+ratio of: 
+20% 60% 20% 
+
+left column for navigation 
 
 **rows**
 3
