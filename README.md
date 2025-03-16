@@ -8,7 +8,7 @@ create a 3 tier application for knowledge gain
 There will be links to: 
 - my CV
 - my github
-- other projects i create (not ready yet) 
+- other projects I create (not ready yet) 
 
 
 The website will be functional on microsoft edge with intention to become a available on mobile phone. 
